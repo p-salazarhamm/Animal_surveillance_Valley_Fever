@@ -1,4 +1,4 @@
-### Merge paired end reads for Illumina
+### Merge Illumina paired end reads
 ```
 #max 10% or 20 bp different in overlapped region
 #minimum merge length of 200 bp because many had staggered pairs
