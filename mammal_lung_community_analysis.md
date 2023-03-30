@@ -15,8 +15,6 @@ cutadapt -g ^AGCCTCCGCTTATTGATATGCTTAART --discard-untrimmed -e 0.2 -m 200 -o tr
 
 #Trim 5.8S-FUN primer
 cutadapt -a AGWGATCCRTTGYYRAAAGTT$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
-
-done
 ```
 ### Dereplication
 ```
