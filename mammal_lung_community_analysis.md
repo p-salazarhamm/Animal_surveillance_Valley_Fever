@@ -4,7 +4,6 @@
 #minimum merge length of 200 bp because many had staggered pairs
 
 usearch11 -fastq_mergepairs R1.fastq R2.fastq -fastqout merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report merge_report.txt -tabbedout merged_tabbedout.txt
-
 ```
 ### [Cutadapt](https://doi.org/10-12.10.14806/ej.17.1.200 ) to remove adapter sequences, primers, and poly-A tails
 ```
