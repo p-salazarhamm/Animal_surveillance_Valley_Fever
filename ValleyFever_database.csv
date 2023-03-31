@@ -10,7 +10,7 @@ sample,tissue,method_dection,lat,long,voucher,date,date_year,state,county,locati
 77713,lung,Illumina_ITS2_amplicon,32.1,-109.917,MSB:77713,7-Jun-94,1994,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,OK135042,PRJNA769405
 77719,lung,Illumina_ITS2_amplicon,32.1,-109.917,MSB:77719,8-Jul-94,1994,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,OK135043,PRJNA769405
 78077,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78077,27-Sep-94,1994,Arizona,Cochise,Cochise Grassland,Leporidae,Sylvilagus,audubonii,,OK135033,PRJNA769405
-78106,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78106,�28-Sep-94,1994,Arizona,Cochise,near Tombstone,Heteromyidae,Chaetodipus,penicillatus,,OK135023,PRJNA769405
+78106,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78106,28-Sep-94,1994,Arizona,Cochise,near Tombstone,Heteromyidae,Chaetodipus,penicillatus,,OK135023,PRJNA769405
 78110,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78110,28-Sep-94,1994,Arizona,Cochise,near Tombstone,Heteromyidae,Dipodomys,merriami,,OK135030,PRJNA769405
 89752,lung,Illumina_ITS2_amplicon,34.358,-106.885,MSB:89752,22-Dec-98,1998,New Mexico,Socorro,Sevilleta National Wildlife Refuge,Cricetidae,Neotoma,albigula,,OK135009,PRJNA769405
 270443,lung,Illumina_ITS2_amplicon,33.255,-107.473,MSB:270443,19-Mar-14,2014,New Mexico,Sierra,Ladder Ranch,Cricetidae,Peromyscus,boylii,,OK134976,PRJNA769405
