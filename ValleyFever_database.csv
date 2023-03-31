@@ -23,6 +23,6 @@ sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,count
 305246,lung,Illumina_ITS2_amplicon,32.841,-107.634,,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Sciuridae,Otospermophilus,variegatus,,OK135097,PRJNA769405
 305240,lung,Illumina_ITS2_amplicon,32.84,-107.635,MSB:305240,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,OK135026,PRJNA769405
 305241,lung,Illumina_ITS2_amplicon,32.792,-107.54,MSB:305241,13-Oct-17,2017,USA,New Mexico,Sierra,13 km SSE of Hillsboro,Heteromyidae,Dipodomys,merriami,,OK135027,PRJNA769405
-,spleen and liver,culture,,,,,1998,Brazil,Piau�,,,Dasypodidae,Dasypus ,novemcinctus,,,,Eulalio et al. 2000
-,spleen and liver,culture,,,,,1998,Brazil,Piau�,,,Dasypodidae,Dasypus ,novemcinctus,,,,Eulalio et al. 2000
-,spleen,culture,,,,,1998,Brazil,Piau�,,,Dasypodidae,Dasypus ,novemcinctus,,,,Eulalio et al. 2000
+,spleen and liver,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
+,spleen and liver,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
+,spleen,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
