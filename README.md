@@ -1,5 +1,5 @@
 # Animal Surveillance of Valley Fever
-A data repository of animal surveillance efforts of Valley Fever. 
+A data repository for animal surveillance efforts of Valley Fever. 
 
 # Relevant citations (in order of recency)
 
