@@ -26,3 +26,6 @@ sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,count
 ,spleen and liver,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
 ,spleen and liver,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
 ,spleen,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
+,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Neotoma,lepida,,,,Catalan-Dibene et al. 2014
+,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Peromyscus,maniculatus,,,,Catalan-Dibene et al. 2014
+,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Peromyscus,maniculatus,,,,Catalan-Dibene et al. 2014
