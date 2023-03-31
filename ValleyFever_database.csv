@@ -1,4 +1,4 @@
-sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,county,location,host_family,host_genus,host_species,host_subspecies,cytB_host_accession,sra,Salazar-Hamm et al. 2022
+sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,county,location,host_family,host_genus,host_species,host_subspecies,cytB_host_accession,sra,citation
 395,lung,Illumina ITS2 amplicon,35.17636,-119.5226,MVZ:239395,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,heermanni,swarthi,OK135119,PRJNA769405,Salazar-Hamm et al. 2022
 414,lung,Illumina ITS2 amplicon,35.17636,-119.52256,MVZ:239414,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,nitratoides,brevinasus,OK135078,PRJNA769405,Salazar-Hamm et al. 2022
 597,lung,Illumina ITS2 amplicon,35.33965,-119.63084,MVZ:239597,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Onychomys,torridus,tularensis,OK134994,PRJNA769405,Salazar-Hamm et al. 2022
