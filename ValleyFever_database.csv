@@ -1,28 +1,28 @@
-sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,county,location,host_family,host_genus,host_species,host_subspecies,cytB_host_accession,sra
-395,lung,Illumina_ITS2_amplicon,35.17636,-119.5226,MVZ:239395,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,heermanni,swarthi,OK135119,PRJNA769405
-414,lung,Illumina_ITS2_amplicon,35.17636,-119.52256,MVZ:239414,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,nitratoides,brevinasus,OK135078,PRJNA769405
-597,lung,Illumina_ITS2_amplicon,35.33965,-119.63084,MVZ:239597,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Onychomys,torridus,tularensis,OK134994,PRJNA769405
-619,lung,Illumina_ITS2_amplicon,35.33965,-119.63084,MVZ:239619,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Peromyscus,maniculatus,gambelii,OK134996,PRJNA769405
-77240,lung,Illumina_ITS2_amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,OK135098,PRJNA769405
-78118,lung,Illumina_ITS2_amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,OK135018,PRJNA769405
-77253,lung,Illumina_ITS2_amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Dipodomys,merriami,,OK135135,PRJNA769405
-77316,lung,Illumina_ITS2_amplicon,33.814,-111.896,MSB:77316,19-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Perognathus,amplus,,OK135136,PRJNA769405
-77713,lung,Illumina_ITS2_amplicon,32.1,-109.917,MSB:77713,7-Jun-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,OK135042,PRJNA769405
-77719,lung,Illumina_ITS2_amplicon,32.1,-109.917,MSB:77719,8-Jul-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,OK135043,PRJNA769405
-78077,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78077,27-Sep-94,1994,USA,Arizona,Cochise,Cochise Grassland,Leporidae,Sylvilagus,audubonii,,OK135033,PRJNA769405
-78106,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78106,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Chaetodipus,penicillatus,,OK135023,PRJNA769405
-78110,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78110,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Dipodomys,merriami,,OK135030,PRJNA769405
-89752,lung,Illumina_ITS2_amplicon,34.358,-106.885,MSB:89752,22-Dec-98,1998,USA,New Mexico,Socorro,Sevilleta National Wildlife Refuge,Cricetidae,Neotoma,albigula,,OK135009,PRJNA769405
-270443,lung,Illumina_ITS2_amplicon,33.255,-107.473,MSB:270443,19-Mar-14,2014,USA,New Mexico,Sierra,Ladder Ranch,Cricetidae,Peromyscus,boylii,,OK134976,PRJNA769405
-284485,lung,Illumina_ITS2_amplicon,33.423,-108.098,MSB:284485,9-Oct-14,2014,USA,New Mexico,Catron,2.31 km east of Beaverhead Ranger Station,Geomyidae,Thomomys,bottae,,,PRJNA769405
-303043,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:303043,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Neotoma,stephensi,,,PRJNA769405
-304176,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:304176,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,OK135024,PRJNA769405
-304190,lung,Illumina_ITS2_amplicon,32.841,-107.637,MSB:304190,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Peromyscus,boylii,,OK134989,PRJNA769405
-305238,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:305238,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,,PRJNA769405
-305243,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:305243,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,OK135017,PRJNA769405
-305246,lung,Illumina_ITS2_amplicon,32.841,-107.634,,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Sciuridae,Otospermophilus,variegatus,,OK135097,PRJNA769405
-305240,lung,Illumina_ITS2_amplicon,32.84,-107.635,MSB:305240,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,OK135026,PRJNA769405
-305241,lung,Illumina_ITS2_amplicon,32.792,-107.54,MSB:305241,13-Oct-17,2017,USA,New Mexico,Sierra,13 km SSE of Hillsboro,Heteromyidae,Dipodomys,merriami,,OK135027,PRJNA769405
-,spleen and liver,culture,,,,,1998,Brazil,Piau,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
-,spleen and liver,culture,,,,,1998,Brazil,Piau,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
-,spleen,culture,,,,,1998,Brazil,Piau,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
+sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,county,location,host_family,host_genus,host_species,host_subspecies,cytB_host_accession,sra,Salazar-Hamm et al. 2022
+395,lung,Illumina_ITS2_amplicon,35.17636,-119.5226,MVZ:239395,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,heermanni,swarthi,OK135119,PRJNA769405,Salazar-Hamm et al. 2022
+414,lung,Illumina_ITS2_amplicon,35.17636,-119.52256,MVZ:239414,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,nitratoides,brevinasus,OK135078,PRJNA769405,Salazar-Hamm et al. 2022
+597,lung,Illumina_ITS2_amplicon,35.33965,-119.63084,MVZ:239597,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Onychomys,torridus,tularensis,OK134994,PRJNA769405,Salazar-Hamm et al. 2022
+619,lung,Illumina_ITS2_amplicon,35.33965,-119.63084,MVZ:239619,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Peromyscus,maniculatus,gambelii,OK134996,PRJNA769405,Salazar-Hamm et al. 2022
+77240,lung,Illumina_ITS2_amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,OK135098,PRJNA769405,Salazar-Hamm et al. 2022
+78118,lung,Illumina_ITS2_amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,OK135018,PRJNA769405,Salazar-Hamm et al. 2022
+77253,lung,Illumina_ITS2_amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Dipodomys,merriami,,OK135135,PRJNA769405,Salazar-Hamm et al. 2022
+77316,lung,Illumina_ITS2_amplicon,33.814,-111.896,MSB:77316,19-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Perognathus,amplus,,OK135136,PRJNA769405,Salazar-Hamm et al. 2022
+77713,lung,Illumina_ITS2_amplicon,32.1,-109.917,MSB:77713,7-Jun-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,OK135042,PRJNA769405,Salazar-Hamm et al. 2022
+77719,lung,Illumina_ITS2_amplicon,32.1,-109.917,MSB:77719,8-Jul-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,OK135043,PRJNA769405,Salazar-Hamm et al. 2022
+78077,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78077,27-Sep-94,1994,USA,Arizona,Cochise,Cochise Grassland,Leporidae,Sylvilagus,audubonii,,OK135033,PRJNA769405,Salazar-Hamm et al. 2022
+78106,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78106,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Chaetodipus,penicillatus,,OK135023,PRJNA769405,Salazar-Hamm et al. 2022
+78110,lung,Illumina_ITS2_amplicon,31.772,-110.057,MSB:78110,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Dipodomys,merriami,,OK135030,PRJNA769405,Salazar-Hamm et al. 2022
+89752,lung,Illumina_ITS2_amplicon,34.358,-106.885,MSB:89752,22-Dec-98,1998,USA,New Mexico,Socorro,Sevilleta National Wildlife Refuge,Cricetidae,Neotoma,albigula,,OK135009,PRJNA769405,Salazar-Hamm et al. 2022
+270443,lung,Illumina_ITS2_amplicon,33.255,-107.473,MSB:270443,19-Mar-14,2014,USA,New Mexico,Sierra,Ladder Ranch,Cricetidae,Peromyscus,boylii,,OK134976,PRJNA769405,Salazar-Hamm et al. 2022
+284485,lung,Illumina_ITS2_amplicon,33.423,-108.098,MSB:284485,9-Oct-14,2014,USA,New Mexico,Catron,2.31 km east of Beaverhead Ranger Station,Geomyidae,Thomomys,bottae,,,PRJNA769405,Salazar-Hamm et al. 2022
+303043,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:303043,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Neotoma,stephensi,,,PRJNA769405,Salazar-Hamm et al. 2022
+304176,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:304176,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,OK135024,PRJNA769405,Salazar-Hamm et al. 2022
+304190,lung,Illumina_ITS2_amplicon,32.841,-107.637,MSB:304190,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Peromyscus,boylii,,OK134989,PRJNA769405,Salazar-Hamm et al. 2022
+305238,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:305238,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,,PRJNA769405,Salazar-Hamm et al. 2022
+305243,lung,Illumina_ITS2_amplicon,32.84,-107.637,MSB:305243,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,OK135017,PRJNA769405,Salazar-Hamm et al. 2022
+305246,lung,Illumina_ITS2_amplicon,32.841,-107.634,,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Sciuridae,Otospermophilus,variegatus,,OK135097,PRJNA769405,Salazar-Hamm et al. 2022
+305240,lung,Illumina_ITS2_amplicon,32.84,-107.635,MSB:305240,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,OK135026,PRJNA769405,Salazar-Hamm et al. 2022
+305241,lung,Illumina_ITS2_amplicon,32.792,-107.54,MSB:305241,13-Oct-17,2017,USA,New Mexico,Sierra,13 km SSE of Hillsboro,Heteromyidae,Dipodomys,merriami,,OK135027,PRJNA769405,Salazar-Hamm et al. 2022
+,spleen and liver,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
+,spleen and liver,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
+,spleen,culture,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,Eulalio et al. 2000
