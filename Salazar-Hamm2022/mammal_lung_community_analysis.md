@@ -3,7 +3,7 @@
 #max 10% or 20 bp different in overlapped region
 #minimum merge length of 200 bp because many had staggered pairs
 
-usearch11 -fastq_mergepairs R1.fastq R2.fastq -fastqout merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report merge_report.txt -tabbedout merged_tabbedout.txt
+usearch9 -fastq_mergepairs R1.fastq R2.fastq -fastqout merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report merge_report.txt -tabbedout merged_tabbedout.txt
 ```
 ### [Cutadapt](https://doi.org/10-12.10.14806/ej.17.1.200 ) to remove adapter sequences, primers, and poly-A tails
 ```
@@ -17,13 +17,13 @@ cutadapt -a AGWGATCCRTTGYYRAAAGTT$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.
 ```
 ### Dereplication
 ```
-usearch11 -fastx_uniques filtered.fa -sizeout -fastaout uniques.fa
+usearch9 -fastx_uniques filtered.fa -sizeout -fastaout uniques.fa
 ```
 ### Assign trimmed reads to OTUs at 99% identity with [UPARSE](https://doi.org/10.1038/nmeth.2604), assembles the OTU table
 ```
-usearch11 -usearch_global merged.fq -db uparse_otus.fa -strand both -id 0.99 -otutabout otu_tab.txt -biomout otu_biom.biom
+usearch9 -usearch_global merged.fq -db uparse_otus.fa -strand both -id 0.99 -otutabout otu_tab.txt -biomout otu_biom.biom
 ```
 ### Assign taxonomy with [sintax](https://doi.org/10.1101/074161) and UNITE database 
 ```
-usearch11 -sintax otus.fa -db utax_reference_dataset_all_04.02.2020_corrected.fasta -tabbedout otus.sintax -strand both -sintax_cutoff 0.8
+usearch9 -sintax otus.fa -db utax_reference_dataset_all_04.02.2020_corrected.fasta -tabbedout otus.sintax -strand both -sintax_cutoff 0.8
 ```
