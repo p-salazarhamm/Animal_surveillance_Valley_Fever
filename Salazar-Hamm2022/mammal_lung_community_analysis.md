@@ -3,7 +3,9 @@
 #max 10% or 20 bp different in overlapped region
 #minimum merge length of 200 bp because many had staggered pairs
 
-usearch9 -fastq_mergepairs R1.fastq R2.fastq -fastqout merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report merge_report.txt -tabbedout merged_tabbedout.txt
+./usearch9 -fastq_mergepairs sample_R1.fastq sample_R2.fastq -fastqout ample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report ample_merge_report.txt -tabbedout sample_merged_tabbedout.txt
+
+./usearch11 -fastq_mergepairs sample_R1.fastq -reverse sample_R2.fastq -fastqout sample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_pctid 10 -report sample_merge_report.txt -tabbedout sample_merged_tabedbout.txt
 ```
 ### [Cutadapt](https://doi.org/10-12.10.14806/ej.17.1.200 ) to remove adapter sequences, primers, and poly-A tails
 ```
