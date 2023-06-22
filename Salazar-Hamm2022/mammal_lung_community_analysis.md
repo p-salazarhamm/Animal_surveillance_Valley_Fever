@@ -11,17 +11,17 @@
 ```
 module load py-cutadapt2-2.5-gcc-4.8.5-python3-rc2hfb6
 
-#Trim ITS4-FUN primer
+#Trim ITS4-FUN primer (Taylor et al. 2016)
 cutadapt -g ^AGCCTCCGCTTATTGATATGCTTAART --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
 
-#Trim 5.8S-FUN primer
+#Trim 5.8S-FUN primer (Taylore et al. 2016)
 cutadapt -a AGWGATCCRTTGYYRAAAGTT$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
 
-#Trim ITS3F primer
-cutadapt -a GCATCGATGAAGAACGCAGC --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq 
+#Trim ITS3F primer (White et al. 1990)
+cutadapt -g ^GCATCGATGAAGAACGCAGC --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq 
 
-#Trim ITS4R primer
-cutadapt -a TCCTCCGCTTATTGATATGC --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
+#Trim ITS4R primer (White et al. 1990)
+cutadapt -a TCCTCCGCTTATTGATATGC$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
 ```
 ### Dereplication
 ```
