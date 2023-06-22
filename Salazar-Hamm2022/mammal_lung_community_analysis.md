@@ -3,7 +3,7 @@
 #max 10% or 20 bp different in overlapped region
 #minimum merge length of 200 bp because many had staggered pairs
 
-./usearch9 -fastq_mergepairs sample_R1.fastq sample_R2.fastq -fastqout ample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report ample_merge_report.txt -tabbedout sample_merged_tabbedout.txt
+./usearch9 -fastq_mergepairs sample_R1.fastq sample_R2.fastq -fastqout sample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report sample_merge_report.txt -tabbedout sample_merged_tabbedout.txt
 
 ./usearch11 -fastq_mergepairs sample_R1.fastq -reverse sample_R2.fastq -fastqout sample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_pctid 10 -report sample_merge_report.txt -tabbedout sample_merged_tabedbout.txt
 ```
@@ -16,6 +16,12 @@ cutadapt -g ^AGCCTCCGCTTATTGATATGCTTAART --discard-untrimmed -e 0.2 -m 200 -o tr
 
 #Trim 5.8S-FUN primer
 cutadapt -a AGWGATCCRTTGYYRAAAGTT$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
+
+#Trim ITS3F primer
+cutadapt -a GCATCGATGAAGAACGCAGC --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq 
+
+#Trim ITS4R primer
+cutadapt -a TCCTCCGCTTATTGATATGC --discard-untrimmed -e 0.2 -m 200 -o trimmed.fq input.fastq
 ```
 ### Dereplication
 ```
