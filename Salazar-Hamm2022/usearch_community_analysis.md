@@ -48,12 +48,10 @@ cat *_uniques.fa > all_uniques.fa
 ### 6b. Cluster into zero-radius operational taxonomic units (zOTUs) with [UNOISE](https://doi.org/10.1101/081257)
 ```
 ./usearch11 -unoise3 all_uniques.fa -zotus unoise_zotus.fasta -tabbedout unoise_tab.txt
-
 ./usearch11 -fastx_relabel unoise_zotus.fasta -prefix zOTU -fastaout unoise_zotus_relabeled.fasta -keep_annots
-
 ./usearch11 -otutab all_uniques.fa -zotus unoise_zotus_relabeled.fasta -otutabout unoise_otu_tab.txt -biomout unoise_otu_biom.biom -mapout unoise_map.txt -notmatched unoise_notmatched.fasta -dbmatched dbmatches.fasta -sizeout
 ```
-### 6. Assign taxonomy with [sintax](https://doi.org/10.1101/074161) and UNITE database 
+### 6. Assign taxonomy with [SINTAX](https://doi.org/10.1101/074161) and UNITE database 
 ```
 #OLD VERSION: ./usearch9 -sintax otus.fa -db utax_reference_dataset_all_04.02.2020_corrected.fasta -tabbedout otus.sintax -strand both -sintax_cutoff 0.8
 
