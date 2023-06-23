@@ -6,6 +6,8 @@
 #OLD VERSION: ./usearch9 -fastq_mergepairs sample_R1.fastq sample_R2.fastq -fastqout sample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_maxdiffpct 10 -report sample_merge_report.txt -tabbedout sample_merged_tabbedout.txt
 
 ./usearch11 -fastq_mergepairs sample_R1.fastq -reverse sample_R2.fastq -fastqout sample_merged.fq -fastq_minmergelen 200 -fastq_maxdiffs 20 -fastq_pctid 10 -report sample_merge_report.txt -tabbedout sample_merged_tabedbout.txt
+
+#pool samples together into merged_fq
 ```
 ### 2a. [Cutadapt](https://doi.org/10-12.10.14806/ej.17.1.200 ) to remove adapter sequences, primers, and poly-A tails
 ```
@@ -30,22 +32,19 @@ cutadapt -a AGWGATCCRTTGYYRAAAGTT$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.
 ```
 ./usearch11 -fastq_filter stripped.fq -fastaout filt.fa -fastq_maxee 1 -fastq_minlen 150
 ```
-### 4. Global trimming in USEARCH
+### 4. Dereplication in USEARCH
 ```
-./usearch11 -fastx_truncate filt.fa -trunclen 250 -fastaout trim.fa
+./usearch11 -fastx_uniques filt.fa -sizeout -relabel Uniq -fastaout uniques.fa
 ```
-### 5. Dereplication in USEARCH
-```
-./usearch11 -fastx_uniques filt.fa -sizeout -fastaout uniques.fa
-```
-### 6a. Cluster into operational taxonomic units (OTUs) at 99% identity with [UPARSE](https://doi.org/10.1038/nmeth.2604)
+### 5a. Cluster into operational taxonomic units (OTUs) at 99% identity with [UPARSE](https://doi.org/10.1038/nmeth.2604)
 ```
 cat *_uniques.fa > all_uniques.fa
 
 ./usearch11 -cluster_otus all_uniques.fa -otus uparse_otus.fa -relabel OTU
+
 ./usearch11 -usearch_global all_uniques.fa -db uparse_otus.fa -strand both -id 0.99 -otutabout otu_tab.txt -biomout otu_biom.biom
 ```
-### 6b. Cluster into zero-radius operational taxonomic units (zOTUs) with [UNOISE](https://doi.org/10.1101/081257)
+### 5b. Cluster into zero-radius operational taxonomic units (zOTUs) with [UNOISE](https://doi.org/10.1101/081257)
 ```
 ./usearch11 -unoise3 all_uniques.fa -zotus unoise_zotus.fasta -tabbedout unoise_tab.txt
 ./usearch11 -fastx_relabel unoise_zotus.fasta -prefix zOTU -fastaout unoise_zotus_relabeled.fasta -keep_annots
