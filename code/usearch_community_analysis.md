@@ -38,10 +38,7 @@ cutadapt -a AGWGATCCRTTGYYRAAAGTT$ --discard-untrimmed -e 0.2 -m 200 -o trimmed.
 ```
 ### 5a. Cluster into operational taxonomic units (OTUs) at 99% identity with [UPARSE](https://doi.org/10.1038/nmeth.2604)
 ```
-cat *_uniques.fa > all_uniques.fa
-
 ./usearch11 -cluster_otus all_uniques.fa -otus uparse_otus.fa -relabel OTU
-
 ./usearch11 -usearch_global all_uniques.fa -db uparse_otus.fa -strand both -id 0.99 -otutabout otu_tab.txt -biomout otu_biom.biom
 ```
 ### 5b. Cluster into zero-radius operational taxonomic units (zOTUs) with [UNOISE](https://doi.org/10.1101/081257)
@@ -54,5 +51,5 @@ cat *_uniques.fa > all_uniques.fa
 ```
 #OLD VERSION: ./usearch9 -sintax otus.fa -db utax_reference_dataset_all_04.02.2020_corrected.fasta -tabbedout otus.sintax -strand both -sintax_cutoff 0.8
 
-./usearch11 -sintax otus.fa -db XXXX -tabbedout otus.sintax -strand both -sintax_cutoff 0.8
+./usearch11 -sintax otus.fa -db utax_unite_v7.fa -tabbedout otus.sintax -strand both -sintax_cutoff 0.8
 ```
