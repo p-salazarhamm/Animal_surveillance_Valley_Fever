@@ -9,6 +9,11 @@ Salazar-Hamm P.S., Montoya K.N., Montoya L., Cook K., Liphardt S., Taylor J.W., 
 * *Coccidioides* wass present in a diverse number of hosts (14 mammalian species) adding nine new species of wild mammals. However, there does not appear to be one sole dominant host.
 * *Coccidioides* appeared to be commensal and in low relative abundance and its presence didn't disrupt the normal lung mycobiome.
 
+Huckabone S.E, Gulland F.M.D., Johnson S.M., Colegrove K.M., Dodd E.M., Pappagianis D., Dunkin R.C., Casper D., Carlson E.L., Sykes J.E., Meyer W., Miller M.A. (2015). Coccidioidomycosis and other systemic mycoses of marine mammals stranding along the central California, USA coast: 1998-2012. Journal of Wildlife Disease, 51(2):295–308. https://doi.org/10.7589/2014-06-143
+
+* Of >7,000 mammals stranding along the California coast, 36 had coccidioidomycosis (15 sea lions, 20 sea otters, and one harbor seal)
+* Species of *Coccidioides* is the most common pathogen causing systemic mycosis in marine mammals in central California 
+
 Catalán-Dibene J., Johnson S.M., Eaton R., Romero-Olivares A.L., Baptista-Rosas R.C., Pappagianis D., Riquelme M. (2014). Detection of coccidioidal antibodies in serum of a small rodent community in Baja California, Mexico. Fungal Biology, 118(3):330-339. https://doi.org/10.1016/j.funbio.2014.01.006 
 
 * By testing the serum from 40-trapped rodents with ELISA, antibodies against *Coccidioides* was detected in three samples from two rodent species: *Peromyscus maniculatus* and *Neotoma lepida*. 
