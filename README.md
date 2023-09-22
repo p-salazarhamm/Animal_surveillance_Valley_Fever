@@ -1,5 +1,5 @@
 # Animal Surveillance of Valley Fever
-A data repository for animal surveillance efforts of Valley Fever. Please contact me if you need help submitting surveillance data (psh102@unm.edu).
+A data repository for animal surveillance efforts of coccidioidomycosis (Valley Fever). Please contact me if you need help submitting surveillance data (psh102@unm.edu).
 
 # Relevant citations (in order of recency)
 
