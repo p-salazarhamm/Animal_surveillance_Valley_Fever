@@ -1,68 +1,68 @@
 sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,county,location,host_family,host_genus,host_species,host_subspecies,common_name,host_age,host_sex,cytB_host_accession,Coccididioides_accession,sra,citation
-395,lung,Illumina ITS2 amplicon,35.17636,-119.5226,MVZ:239395,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,heermanni,swarthi,,,male,OK135119,OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-414,lung,Illumina ITS2 amplicon,35.17636,-119.52256,MVZ:239414,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,nitratoides,brevinasus,,,female,OK135078,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-597,lung,Illumina ITS2 amplicon,35.33965,-119.63084,MVZ:239597,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Onychomys,torridus,tularensis,,,female,OK134994,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-619,lung,Illumina ITS2 amplicon,35.33965,-119.63084,MVZ:239619,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Peromyscus,maniculatus,gambelii,,,female,OK134996,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-77240,lung,Illumina ITS2 amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,,,,OK135098,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-78118,lung,Illumina ITS2 amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,,,,OK135018,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-77253,lung,Illumina ITS2 amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Dipodomys,merriami,,,,,OK135135,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-77316,lung,Illumina ITS2 amplicon,33.814,-111.896,MSB:77316,19-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Perognathus,amplus,,,,male,OK135136,OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-77713,lung,Illumina ITS2 amplicon,32.1,-109.917,MSB:77713,7-Jun-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,,,female,OK135042,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-77719,lung,Illumina ITS2 amplicon,32.1,-109.917,MSB:77719,8-Jul-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,,,female,OK135043,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-78077,lung,Illumina ITS2 amplicon,31.772,-110.057,MSB:78077,27-Sep-94,1994,USA,Arizona,Cochise,Cochise Grassland,Leporidae,Sylvilagus,audubonii,,,,male,OK135033,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-78106,lung,Illumina ITS2 amplicon,31.772,-110.057,MSB:78106,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Chaetodipus,penicillatus,,,,male,OK135023,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-78110,lung,Illumina ITS2 amplicon,31.772,-110.057,MSB:78110,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Dipodomys,merriami,,,,female,OK135030,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-89752,lung,Illumina ITS2 amplicon,34.358,-106.885,MSB:89752,22-Dec-98,1998,USA,New Mexico,Socorro,Sevilleta National Wildlife Refuge,Cricetidae,Neotoma,albigula,,,,female,OK135009,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-270443,lung,Illumina ITS2 amplicon,33.255,-107.473,MSB:270443,19-Mar-14,2014,USA,New Mexico,Sierra,Ladder Ranch,Cricetidae,Peromyscus,boylii,,,,female,OK134976,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-284485,lung,Illumina ITS2 amplicon,33.423,-108.098,MSB:284485,9-Oct-14,2014,USA,New Mexico,Catron,2.31 km east of Beaverhead Ranger Station,Geomyidae,Thomomys,bottae,,,,female,,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-303043,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:303043,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Neotoma,stephensi,,,,female,,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-304176,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:304176,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,,,female,OK135024,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-304190,lung,Illumina ITS2 amplicon,32.841,-107.637,MSB:304190,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Peromyscus,boylii,,,,male,OK134989,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-305238,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:305238,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,,,male,,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-305243,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:305243,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,,,female,OK135017,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-305246,lung,Illumina ITS2 amplicon,32.841,-107.634,,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Sciuridae,Otospermophilus,variegatus,,,,,OK135097,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
-305240,lung,Illumina ITS2 amplicon,32.84,-107.635,MSB:305240,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,,,female,OK135026,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-305241,lung,Illumina ITS2 amplicon,32.792,-107.54,MSB:305241,13-Oct-17,2017,USA,New Mexico,Sierra,13 km SSE of Hillsboro,Heteromyidae,Dipodomys,merriami,,,,male,OK135027,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
-,spleen and liver,culture and histopathology,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,,,,,Eulalio et al. 2001
-,spleen and liver,culture and histopathology,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,,,,,Eulalio et al. 2001
-,spleen,culture and histopathology,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,,,,,,,Eulalio et al. 2001
-,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Neotoma,lepida,,,,,,,,Catalan-Dibene et al. 2014
-,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Peromyscus,maniculatus,,,,,,,,Catalan-Dibene et al. 2014
-,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Peromyscus,maniculatus,,,,,,,,Catalan-Dibene et al. 2014
-,,culture; histopathology; cytology,,,,21-Jun-98,1998,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,9-May-00,2000,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,10-Apr-06,2006,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,28-Dec-03,2003,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,6-Feb-04,2004,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,22-Apr-04,2004,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,juvenile,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,27-Jul-04,2004,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,4-Feb-05,2005,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,3-Feb-06,2006,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,13-Jul-06,2006,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,14-Apr-07,2007,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,21-Jul-07,2007,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,15-Mar-08,2008,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,27-Jan-09,2009,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,28-Mar-09,2009,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,25-Mar-10,2010,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,juvenile,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,14-Mar-11,2011,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,24-Jun-11,2011,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,7-Mar-12,2012,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,14-Jun-12,2012,USA,California,,,Mustelidae,Enhydra,lutris,nereis,,juvenile,male,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,30-Jun-02,2002,USA,California,,,Otariidae,Zalophus,californianus,,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,20-Apr-05,2005,USA,California,,,Otariidae,Zalophus,californianus,,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,17-Aug-05,2005,USA,California,,,Otariidae,Zalophus,californianus,,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,15-Nov-05,2005,USA,California,,,Otariidae,Zalophus,californianus,,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,5-Jun-06,2006,USA,California,,,Otariidae,Zalophus,californianus,,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,17-Sep-06,2006,USA,California,,,Otariidae,Zalophus,californianus,,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,22-Nov-07,2007,USA,California,,,Otariidae,Zalophus,californianus,,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,20-Dec-07,2007,USA,California,,,Otariidae,Zalophus,californianus,,,juvenile,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,13-Aug-08,2008,USA,California,,,Otariidae,Zalophus,californianus,,,adult,female,,,,Huckabone et al. 2015
-,,culture; histopathology; cytology,,,,4-May-09,2009,USA,California,,,Otariidae,Zalophus,californianus,,,adult,female,,,,Huckabone et al. 2015
-,liver; spleen; kidney,culture; histopathology; cytology,,,,,,USA,California,,,Phocidae,Phoca,vitulina,richardii,,subadult,female,,,,Huckabone et al. 2015
-,lung,culture; microscopy; mouse passage; PCR,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Carollia,perspicillata,,,,,,,,Cordeiro et al. 2012
-,lung;spleen;liver,antibodies,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Glossophaga,soricina,,,,,,,,Cordeiro et al. 2012
-,lung;spleen;liver,antigens,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Glossophaga,soricina,,,,,,,,Cordeiro et al. 2012
+395,lung,Illumina ITS2 amplicon,35.17636,-119.5226,MVZ:239395,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,heermanni,swarthi,Kangaroo rat,,male,OK135119,OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+414,lung,Illumina ITS2 amplicon,35.17636,-119.52256,MVZ:239414,17-Apr-19,2019,USA,California,Kern,3.8 mi NW Taft,Heteromyidae,Dipodomys,nitratoides,brevinasus,Kangaroo rat,,female,OK135078,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+597,lung,Illumina ITS2 amplicon,35.33965,-119.63084,MVZ:239597,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Onychomys,torridus,tularensis,Grasshopper mouse,,female,OK134994,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+619,lung,Illumina ITS2 amplicon,35.33965,-119.63084,MVZ:239619,17-Apr-19,2019,USA,California,Kern,2.5 mi McKittrick,Cricetidae,Peromyscus,maniculatus,gambelii,Deer mouse,,female,OK134996,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+77240,lung,Illumina ITS2 amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,Antelope squirrel,,,OK135098,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+78118,lung,Illumina ITS2 amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Sciuridae,Ammospermophilus ,harrisii,,Antelope squirrel,,,OK135018,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+77253,lung,Illumina ITS2 amplicon,33.814,-111.896,,18-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Dipodomys,merriami,,Kangaroo rat,,,OK135135,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+77316,lung,Illumina ITS2 amplicon,33.814,-111.896,MSB:77316,19-May-94,1994,USA,Arizona,Maricopa,Upper Sonoran Desert,Heteromyidae,Perognathus,amplus,,Pocket mouse,,male,OK135136,OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+77713,lung,Illumina ITS2 amplicon,32.1,-109.917,MSB:77713,7-Jun-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,Pocket mouse,,female,OK135042,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+77719,lung,Illumina ITS2 amplicon,32.1,-109.917,MSB:77719,8-Jul-94,1994,USA,Arizona,Cochise,Cochise Grassland,Heteromyidae,Chaetodipus,penicillatus,,Pocket mouse,,female,OK135043,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+78077,lung,Illumina ITS2 amplicon,31.772,-110.057,MSB:78077,27-Sep-94,1994,USA,Arizona,Cochise,Cochise Grassland,Leporidae,Sylvilagus,audubonii,,Desert cottontail,,male,OK135033,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+78106,lung,Illumina ITS2 amplicon,31.772,-110.057,MSB:78106,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Chaetodipus,penicillatus,,Pocket mouse,,male,OK135023,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+78110,lung,Illumina ITS2 amplicon,31.772,-110.057,MSB:78110,28-Sep-94,1994,USA,Arizona,Cochise,near Tombstone,Heteromyidae,Dipodomys,merriami,,Kangaroo rat,,female,OK135030,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+89752,lung,Illumina ITS2 amplicon,34.358,-106.885,MSB:89752,22-Dec-98,1998,USA,New Mexico,Socorro,Sevilleta National Wildlife Refuge,Cricetidae,Neotoma,albigula,,Woodrat,,female,OK135009,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+270443,lung,Illumina ITS2 amplicon,33.255,-107.473,MSB:270443,19-Mar-14,2014,USA,New Mexico,Sierra,Ladder Ranch,Cricetidae,Peromyscus,boylii,,Brush mouse,,female,OK134976,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+284485,lung,Illumina ITS2 amplicon,33.423,-108.098,MSB:284485,9-Oct-14,2014,USA,New Mexico,Catron,2.31 km east of Beaverhead Ranger Station,Geomyidae,Thomomys,bottae,,Pocket gopher,,female,,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+303043,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:303043,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Neotoma,stephensi,,Woodrat,,female,,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+304176,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:304176,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,Pocket mouse,,female,OK135024,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+304190,lung,Illumina ITS2 amplicon,32.841,-107.637,MSB:304190,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Peromyscus,boylii,,Brush mouse,,male,OK134989,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+305238,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:305238,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,Woodrat,,male,,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+305243,lung,Illumina ITS2 amplicon,32.84,-107.637,MSB:305243,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Cricetidae,Neotoma,albigula,,Woodrat,,female,OK135017,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+305246,lung,Illumina ITS2 amplicon,32.841,-107.634,,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Sciuridae,Otospermophilus,variegatus,,Rock squirrel,,,OK135097,OK078156,PRJNA769405,Salazar-Hamm et al. 2022
+305240,lung,Illumina ITS2 amplicon,32.84,-107.635,MSB:305240,13-Oct-17,2017,USA,New Mexico,Sierra,11 km SE of Kingston,Heteromyidae,Chaetodipus,intermedius,,Pocket mouse,,female,OK135026,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+305241,lung,Illumina ITS2 amplicon,32.792,-107.54,MSB:305241,13-Oct-17,2017,USA,New Mexico,Sierra,13 km SSE of Hillsboro,Heteromyidae,Dipodomys,merriami,,Kangaroo rat,,male,OK135027,OK078156; OK078450,PRJNA769405,Salazar-Hamm et al. 2022
+,spleen and liver,culture and histopathology,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,Nine-banded armadillo,,,,,,Eulalio et al. 2001
+,spleen and liver,culture and histopathology,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,Nine-banded armadillo,,,,,,Eulalio et al. 2001
+,spleen,culture and histopathology,,,,,1998,Brazil,Piau,,,Dasypodidae,Dasypus,novemcinctus,,Nine-banded armadillo,,,,,,Eulalio et al. 2001
+,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Neotoma,lepida,,Woodrat,,,,,,Catalan-Dibene et al. 2014
+,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Peromyscus,maniculatus,,Deer mouse,,,,,,Catalan-Dibene et al. 2014
+,blood,ELISA,,,,11-Dec-10,2010,Mexico,Baja California ,,Valle de las Palmas ,Cricetidae,Peromyscus,maniculatus,,Deer mouse,,,,,,Catalan-Dibene et al. 2014
+,,culture; histopathology; cytology,,,,21-Jun-98,1998,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,9-May-00,2000,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,10-Apr-06,2006,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,28-Dec-03,2003,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,6-Feb-04,2004,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,22-Apr-04,2004,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,juvenile,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,27-Jul-04,2004,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,4-Feb-05,2005,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,3-Feb-06,2006,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,13-Jul-06,2006,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,14-Apr-07,2007,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,21-Jul-07,2007,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,15-Mar-08,2008,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,27-Jan-09,2009,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,28-Mar-09,2009,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,25-Mar-10,2010,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,juvenile,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,14-Mar-11,2011,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,24-Jun-11,2011,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,7-Mar-12,2012,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,14-Jun-12,2012,USA,California,,,Mustelidae,Enhydra,lutris,nereis,California sea otter,juvenile,male,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,30-Jun-02,2002,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,20-Apr-05,2005,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,17-Aug-05,2005,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,15-Nov-05,2005,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,5-Jun-06,2006,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,17-Sep-06,2006,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,22-Nov-07,2007,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,20-Dec-07,2007,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,juvenile,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,13-Aug-08,2008,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,adult,female,,,,Huckabone et al. 2015
+,,culture; histopathology; cytology,,,,4-May-09,2009,USA,California,,,Otariidae,Zalophus,californianus,,California sea lion,adult,female,,,,Huckabone et al. 2015
+,liver; spleen; kidney,culture; histopathology; cytology,,,,,,USA,California,,,Phocidae,Phoca,vitulina,richardii,Pacific harbor seal,subadult,female,,,,Huckabone et al. 2015
+,lung,culture; microscopy; mouse passage; PCR,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Carollia,perspicillata,,Short-tailed bat,,,,,,Cordeiro et al. 2012
+,lung;spleen;liver,antibodies,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Glossophaga,soricina,,Long-tongued bat,,,,,,Cordeiro et al. 2012
+,lung;spleen;liver,antigens,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Glossophaga,soricina,,Long-tongued bat,,,,,,Cordeiro et al. 2012
 ,lung;spleen;liver,antigens,-3.80397,-40.8795,,,,Brazil,Ceará,,cavie in Ubajara,Desmodontidae,Desmodus,rotundus,,Vampire bat,,,,,,Cordeiro et al. 2012
 ,skin,culture; DNA probe-hybridization,,,,,1997,USA,Washington,,travel history to Yakima,Canidae,Canis,lupus,familiaris,Laborador retriever dog,"adult, 6 yrs",female,,,,James et al. 2019
 ,skin (withers),culture,,,,,1999,USA,Washington,,"lived in Clarkston with out of state travel history to Prineville and Rufus, OR and Missoula MT and intrastate travel to Wenatchee and Spokane",Equidae,Equus,caballus,,Quarter horse,"adult, 14 yrs",female,,,,James et al. 2019
