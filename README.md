@@ -6,7 +6,7 @@ A data repository for animal surveillance efforts of coccidioidomycosis (Valley 
 Salazar-Hamm PS, Montoya KN, Montoya L, Cook K, Liphardt S, Taylor JW, et al. Breathing can be dangerous: Opportunistic fungal pathogens and the diverse community of the small mammal lung mycobiome. Front Fungal Biol. 2022;3:996574. https://doi.org/10.3389/ffunb.2022.996574
 
 * Species of *Coccidioides* were detected in 12% (24/199) of samples using ITS2 amplicon sequencing.
-* *Coccidioides* wass present in a diverse number of hosts (14 mammalian species) adding nine new species of wild mammals. However, there does not appear to be one sole dominant host.
+* *Coccidioides* was present in a diverse number of hosts (14 mammalian species) adding nine new species of wild mammals. However, there does not appear to be one sole dominant host.
 * *Coccidioides* appeared to be commensal and in low relative abundance and its presence didn't disrupt the normal lung mycobiome.
 
 James AE, Pastenkos G, Bradway D, Baszler T. Autochthonous transmission of *Coccidioides* in animals, Washington, USA. Emerg Infect Dis. 2019;25(1):123–125. https://doi.org/10.3201/eid2501.180411
