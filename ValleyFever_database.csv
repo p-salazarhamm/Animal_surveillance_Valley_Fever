@@ -63,7 +63,7 @@ sample,tissue,method_dection,lat,long,voucher,date,date_year,country,state,count
 ,lung,culture; microscopy; mouse passage; PCR,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Carollia,perspicillata,,Short-tailed bat,,,,,,Cordeiro et al. 2012
 ,lung;spleen;liver,antibodies,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Glossophaga,soricina,,Long-tongued bat,,,,,,Cordeiro et al. 2012
 ,lung;spleen;liver,antigens,-4.3664167,-38.8144167,,,,Brazil,Ceará,,urban areas of Aracoiaba,Phyllostomidae,Glossophaga,soricina,,Long-tongued bat,,,,,,Cordeiro et al. 2012
-,lung;spleen;liver,antigens,-3.80397,-40.8795,,,,Brazil,Ceará,,cavie in Ubajara,Desmodontidae,Desmodus,rotundus,,Vampire bat,,,,,,Cordeiro et al. 2012
+,lung;spleen;liver,antigens,-3.80397,-40.8795,,,,Brazil,Ceará,,cave in Ubajara,Desmodontidae,Desmodus,rotundus,,Vampire bat,,,,,,Cordeiro et al. 2012
 ,skin,culture; DNA probe-hybridization,,,,,1997,USA,Washington,,travel history to Yakima,Canidae,Canis,lupus,familiaris,Laborador retriever dog,"adult, 6 yrs",female,,,,James et al. 2019
 ,skin (withers),culture,,,,,1999,USA,Washington,,"lived in Clarkston with out of state travel history to Prineville and Rufus, OR and Missoula MT and intrastate travel to Wenatchee and Spokane",Equidae,Equus,caballus,,Quarter horse,"adult, 14 yrs",female,,,,James et al. 2019
 ,skin,culture; PCR and sequencing,,,,,2000,USA,Washington,Benton,"resides in Prosser, WA",Canidae,Canis,lupus,familiaris,German wirehaired pointer dog,"adult, 6 yrs",male,,,,James et al. 2019
