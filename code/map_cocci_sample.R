@@ -9,11 +9,8 @@ library(mapproj)
 
 #Load in data
 dat.cocc <- read.csv("Cocci positive animals GPS.csv", header = T)
-dat.all <- read.csv("Mammal_metadata_v2.csv", header = T)
-dat.county <- read.csv("samples_by_county.csv", header=T)
 
 #ggmap
-usa <- map_data("usa")
 states <- map_data("state")
 counties <- map_data("county")
 counties_merged <- read.csv("counties.csv", header=T)
@@ -30,10 +27,13 @@ p <-ggplot(data = counties_merged) +
   #guides(fill=FALSE)+  # do this to leave off the color legend
   labs(x="Longitude", y= "Latitude") #axis labels
 p
-ggsave(p, 
-  filename = "mammal_cocci_sampling.pdf", 
-  height = 6, 
-  width = 8, 
-  units = "in",
-  bg="transparent"
+
+ggsave(
+  filename = "mammal_cocci_sampling.pdf",
+  plot = p,
+  width = 8,
+  height = 6,
+  unit = "in",
+  bg = "transparent",
+  device = "pdf"
 )
