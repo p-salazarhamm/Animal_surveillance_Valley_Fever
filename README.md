@@ -31,3 +31,7 @@ Cordeiro R, Rocha de Castro e Silva K, Brilhante R, Moura F, Duarte N, Marques F
 Eulalio KD, de Macedo RL, Salmito Cavalcanti MdA, Soares Martins LM, dos Santos Lazéra M, Wanke B. *Coccidioides immitis* isolated from armadillos (*Dasypus novemcinctus*) in the state of Piauí, northeast Brazil. Mycopathologia. 2001;149:57–61. https://doi.org/10.1023/A:1007273019647
 
 * Culturing and histopathology confirmed *Coccidioides* in 3 of 26 (11.5%) nine-banded armadillos (*Dasypus novemcinctus*) in Piauí, northeast Brazil.
+
+Lochmiller RL, Hellgren EC, Hannon PG, Grant WE, Robinson RM. Coccidioidomycosis (*Coccidioides immitis*) in the collared peccary (*Tayassu tajacu*: Tayassuidae) in Texas. J Wildl Dis. 1985;21(3):305-309.
+
+* A case of disseminated coccidioidomycosis and three cases of primary respiratory coccidioidomycosis in a herd of captive collared peccaries in Brazos County, Texas.
