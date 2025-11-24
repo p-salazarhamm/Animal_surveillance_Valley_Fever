@@ -3,6 +3,11 @@ A data repository for animal surveillance efforts of coccidioidomycosis (Valley 
 
 # Relevant citations (in order of recency)
 
+
+Fabio-Braga A, Salois J, Bryant ML, Kollath DR, Barker B. Dancing with the dust devil: Examining the lung mycobiome of Sonoran Desert wild mammals and the effect of *Coccidioides* presence. Pathogens. 2025;14(8):807. https://doi.org/10.3390/pathogens14080807
+* *Coccidioides* was detected in all samples from north of Mesa, Arizona (n=14) and five (19%) from southeast of Tucson, Arizona.
+* CocciDx detected *Coccidioides* in more samples than the ITS2 amplicon sequencing.
+
 Salazar-Hamm PS, Montoya KN, Montoya L, Cook K, Liphardt S, Taylor JW, et al. Breathing can be dangerous: Opportunistic fungal pathogens and the diverse community of the small mammal lung mycobiome. Front Fungal Biol. 2022;3:996574. https://doi.org/10.3389/ffunb.2022.996574
 
 * Species of *Coccidioides* were detected in 12% (24/199) of samples using ITS2 amplicon sequencing.
