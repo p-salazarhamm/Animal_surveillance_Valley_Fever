@@ -73,22 +73,22 @@ R20,lung; kidney; spleen,histopathology,,,,,1984,USA,Texas,,"held in captivity i
 R8,lung,histopathology,,,,,1984,USA,Texas,,"held in captivity in Brazos County but were captured in southwest Texas two years prior (endemic region)",Tayassuidae,Dicotyles,tajacu,,Collared peccary,adult,female,,,,Lochmiller et al. 1985
 R31,lung,histopathology,,,,,1984,USA,Texas,,"held in captivity in Brazos County but were captured in southwest Texas two years prior (endemic region)",Tayassuidae,Dicotyles,tajacu,,Collared peccary,adult,female,,,,Lochmiller et al. 1985
 R33,lung,histopathology,,,,,1984,USA,Texas,,"held in captivity in Brazos County but were captured in southwest Texas two years prior (endemic region)",Tayassuidae,Dicotyles,tajacu,,Collared peccary,adult,female,,,,Lochmiller et al. 1985
-PM_4,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Heteromyidae,Chaetodipus,,,,,,,,Fabio-Braga et al. 2025
-PM_5,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Heteromyidae,Chaetodipus,,,,,,,,Fabio-Braga et al. 2025
-CT_6,lung,CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Leporidae,Sylvilagus,,,,,,,,Fabio-Braga et al. 2025
-GH_M,lung,CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Cricetidae,Onychomys,,,,,,,,Fabio-Braga et al. 2025
-A_GS,lung,CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Sciuridae,Ammospermophilus,,,,,,,,Fabio-Braga et al. 2025
-17L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-24L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-29L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-31L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-33L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-34L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-35L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-36L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-37L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-38L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-39L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-40L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-41L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
-43L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,,Cricetidae,Peromyscus,,,,,,,,Fabio-Braga et al. 2025
+PM_4,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Heteromyidae,Chaetodipus,,,,,,,,,Fabio-Braga et al. 2025
+PM_5,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,,Heteromyidae,Chaetodipus,,,,,,,,,Fabio-Braga et al. 2025
+CT_6,lung,CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,Leporidae,Sylvilagus,,,,,,,,,Fabio-Braga et al. 2025
+GH_M,lung,CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,Cricetidae,Onychomys,,,,,,,,,Fabio-Braga et al. 2025
+A_GS,lung,CocciDx,,,,,,USA,Arizona,Pima,southeast of Tucson in the Lower Sonoran Desert,Sciuridae,Ammospermophilus,,,,,,,,,Fabio-Braga et al. 2025
+17L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+24L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+29L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+31L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+33L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+34L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+35L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+36L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+37L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+38L,lung,Illumina ITS2 amplicon; CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+39L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+40L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+41L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
+43L,lung,CocciDx,,,,,,USA,Arizona,Maricopa,trapped in primate housing facility north of Mesa,Cricetidae,Peromyscus,,,,,,,,,Fabio-Braga et al. 2025
